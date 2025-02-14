@@ -7,7 +7,7 @@ In my free time, I love experimenting with new technologies, contributing to ope
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootsrap,wordpress,figma,git,github"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,wordpress,figma,git,github"/>
   </a>
 </p>
 <!--
