@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 <!--
 **Thapelo-Nobatana/Thapelo-Nobatana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
