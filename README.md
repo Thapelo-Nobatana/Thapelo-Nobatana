@@ -1,4 +1,7 @@
-# About me
+# Thapelo Nobatana 
+
+
+##`Software Engineer`##
 
 <!--
 **Thapelo-Nobatana/Thapelo-Nobatana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
