@@ -10,6 +10,7 @@ In my free time, I love experimenting with new technologies, contributing to ope
 
 Portfolio: https://thapelo-nobatana.onrender.com
 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,wordpress,figma,git,github"/>
