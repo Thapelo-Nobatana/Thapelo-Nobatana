@@ -1,4 +1,4 @@
-<!--
+
 <h1> Welcome to Thapelo Nobatana's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h1>
@@ -17,7 +17,7 @@ Portfolio: https://thapelo-nobatana.onrender.com
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,wordpress,figma,git,github"/>
   </a>
 </p>
--->
+
 <!--
 **Thapelo-Nobatana/Thapelo-Nobatana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
   <h1 align="center">Hi there 👋, I'm Thapelo Nobatana</h1>
 
 <p align="center">
@@ -94,8 +95,10 @@ Here are some ideas to get you started:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thapelo-nobatana-549329339/)
 - 💬 I’m always open to feedback, collaborations, and mentorship opportunities.
-- 📧 Reach me at: **your.email@example.com**
+- 📧 Reach me at: **nobatanathapelo@gmail.com.com**
 
 ---
 
 <h3 align="center">💡 "Code. Learn. Repeat." 💡</h3>
+
+-->
