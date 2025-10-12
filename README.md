@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h1>
 
-I'm Thapelo Nobatana, a Frontend Developer with a strong passion for building beautiful, engaging, and user-friendly web applications. Coming from a background in Fine Applied Art, I bring a creative eye for design and detail into the world of coding — blending visual storytelling with clean, responsive interfaces. I enjoy turning ideas into real, functional products and exploring how design and technology can work together to improve user experiences.
-Beyond coding, I’m passionate about growth constantly learning, experimenting, and keeping up with the latest trends in web development. My goal is to keep building meaningful projects, collaborate with other developers, and grow into a well-rounded software engineer.
+I'm Thapelo Nobatana, a Frontend Developer with a strong passion for building beautiful, engaging, and user-friendly web applications. Coming from a background in Fine Applied Art, I bring a creative eye for design and detail into the world of coding, blending visual storytelling with clean, responsive interfaces. I enjoy turning ideas into real, functional products and exploring how design and technology can work together to improve user experiences.
+Beyond coding. I’m passionate about growth constantly learning, experimenting, and keeping up with the latest trends in web development. My goal is to keep building meaningful projects, collaborate with other developers, and grow into a well-rounded software engineer.
 
 Portfolio: https://thapelo-nobatana.onrender.com
 
