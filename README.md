@@ -3,11 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h1>
 
-
-## ` Software Engineer (Developer / Creator) ` ##
-
-I’m a frontend software engineer, With a strong foundation in HTML, CSS, JavaScript, and modern frameworks like React and CSS pre-processors and  design tools such as Figma, I build responsive, high-performance interfaces that elevate the user experience. My expertise extends to optimizing web performance, ensuring cross-browser compatibility, and implementing seamless integrations with back-end services.ALL coding projects are built from the ground up. I thrive on collaboration, working closely with designers and back-end engineers to turn ideas into reality. Whether it's improving an existing application or starting a new project from scratch, I am driven by solving complex challenges and delivering clean, maintainable code. Always eager to learn and grow, I stay up-to-date with the latest web development trends and best practices.
-In my free time, I love experimenting with new technologies, contributing to open-source projects, and exploring design principles to enhance the overall aesthetic of the web.
+I'm Thapelo Nobatana, a Frontend Developer with a strong passion for building beautiful, engaging, and user-friendly web applications. Coming from a background in Fine Applied Art, I bring a creative eye for design and detail into the world of coding — blending visual storytelling with clean, responsive interfaces. I enjoy turning ideas into real, functional products and exploring how design and technology can work together to improve user experiences.
+Beyond coding, I’m passionate about growth constantly learning, experimenting, and keeping up with the latest trends in web development. My goal is to keep building meaningful projects, collaborate with other developers, and grow into a well-rounded software engineer.
 
 Portfolio: https://thapelo-nobatana.onrender.com
 
