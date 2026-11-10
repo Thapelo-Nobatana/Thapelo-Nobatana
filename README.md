@@ -3,8 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h1>
 
- 👋
-
 Junior Full Stack Developer | Software Engineer
 
 I'm a software developer based in Pretoria, South Africa, with professional experience building and maintaining web applications in production.
