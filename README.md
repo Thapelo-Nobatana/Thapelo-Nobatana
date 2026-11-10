@@ -1,10 +1,25 @@
 
-<h1> Welcome to Thapelo Nobatana's profile!
+<h1> Hi, I'm Thapelo Nobatana
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h1>
 
-I'm Thapelo Nobatana, a Frontend Developer with a strong passion for building beautiful, engaging, and user-friendly web applications. Coming from a background in Fine Applied Art, I bring a creative eye for design and detail into the world of coding, blending visual storytelling with clean, responsive interfaces. I enjoy turning ideas into real, functional products and exploring how design and technology can work together to improve user experiences.
-Beyond coding. I’m passionate about growth constantly learning, experimenting, and keeping up with the latest trends in web development. My goal is to keep building meaningful projects, collaborate with other developers, and grow into a well-rounded software engineer.
+ 👋
+
+Junior Full Stack Developer | Software Engineer
+
+I'm a software developer based in Pretoria, South Africa, with professional experience building and maintaining web applications in production.
+Currently, I'm working at Stratusolve (Pty) Ltd, contributing to frontend and backend functionality, API integrations, database operations, and application troubleshooting.
+My background is in frontend development, and I'm expanding my full-stack engineering skills by working across application layers, solving technical problems, and learning how to build reliable, maintainable software.
+
+ Currently: Junior Engineer / Full Stack Developer at Stratusolve (Pty) Ltd
+
+ Working with: Svelte, SvelteKit, TypeScript, SQL, MySQL and Prisma
+
+ Additional experience: React, Next.js, Vue.js, REST APIs and Java Spring Boot
+
+ Focus: Full-stack development, backend engineering and writing maintainable code
+
+ Location: Pretoria, South Africa
 
 Portfolio: https://thapelo-nobatana.onrender.com
 
